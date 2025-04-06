@@ -1,0 +1,5 @@
+.env
+/venv
+/__pycache__
+helper.py
+helper2.py
